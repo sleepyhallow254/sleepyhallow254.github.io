@@ -4,15 +4,15 @@
 
 I am focused on expanding my technical skills and becoming a better developer this semester.
 
-## Exercise 2 — Text Formatting
+## 2 — Text Formatting
 
 The **most important** skill is to stay *consistent* with your code style, and always use `git status` to check your progress.
 
-## Exercise 3 — Links
+## 3 — Links
 
 Visit my [GitHub profile](https://github.com/sleepyhallow254) to see my projects.
 
-## Exercise 4 — Lists
+## 4 — Lists
 
 ### Things I Want to Learn
 
@@ -27,7 +27,7 @@ Visit my [GitHub profile](https://github.com/sleepyhallow254) to see my projects
 3. Create a commit with a descriptive message using `git commit -m "message"`
 4. Push your changes to the remote repository with `git push`
 
-## Exercise 5 — Table
+## 5 — Table
 
 | Tool | Purpose | Link |
 |------|---------|------|
@@ -35,7 +35,7 @@ Visit my [GitHub profile](https://github.com/sleepyhallow254) to see my projects
 | VS Code | Code editor and development environment | [code.visualstudio.com](https://code.visualstudio.com/) |
 | GitHub | Repository hosting and collaboration platform | [github.com](https://github.com/) |
 
-## Exercise 6 — Task List
+## 6 — Task List
 
 - [x] Learn the basics of Git and GitHub
 - [x] Set up my development environment
@@ -44,7 +44,7 @@ Visit my [GitHub profile](https://github.com/sleepyhallow254) to see my projects
 - [ ] Build a full-stack project
 - [ ] Contribute to an open-source project
 
-## Exercise 7 — Code Block
+## 7 — Code Block
 
 Here's a simple Python function that calculates the factorial of a number:
 
